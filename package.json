@@ -1,0 +1,19 @@
+{
+  "name": "p-2004-cicd-pipeline_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vm-mishchenko/p-2004-cicd-pipeline_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vm-mishchenko/p-2004-cicd-pipeline_backend/issues"
+  },
+  "homepage": "https://github.com/vm-mishchenko/p-2004-cicd-pipeline_backend#readme"
+}
